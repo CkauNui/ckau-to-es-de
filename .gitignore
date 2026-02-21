@@ -75,3 +75,6 @@ $RECYCLE.BIN/
 *.backup
 README.md.backup
 *.py
+README.md
+.gitattributes
+.gitignore
