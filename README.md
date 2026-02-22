@@ -158,6 +158,7 @@ _skipped_files_<system>.txt
 ---
 
 ## ❤️ Благодарности
+ffmpeg
 За идею спасибо ув. **RapsterUK**
 
 
