@@ -1,10 +1,8 @@
 # ckau-to-es-de
 <p>
 <img align="right" width="180px" src="https://github.com/user-attachments/assets/3a205c81-ba9a-4aea-9593-770e6df3f435" />
-This set of scripts is designed to automatically convert collections from Ckau (made for Batocera and Retrobat)<br/> for use in ES-DE.
+This set of scripts is designed to automatically convert collections from Ckau (made for Batocera and Retrobat) for use in ES-DE.
 </p>
-<br/>
-<br/>
 
 # 🎮 Адаптация коллекций оформлений под ES-DE
 
