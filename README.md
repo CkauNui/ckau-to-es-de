@@ -159,3 +159,17 @@ _skipped_files_<system>.txt
 За идею спасибо ув. **RapsterUK**
 
 Если инструмент оказался полезен — значит всё было не зря 🙂
+
+---
+
+## License
+
+- **Allowed**
+  - Share and duplicate as it is  
+  - Edit, alter, change it  
+- **Requirements**
+  - Give credit to the creator  
+  - Indicate changes  
+  - Publish derivative works under the same license  
+- **Prohibited**
+  - Commercial distribution
