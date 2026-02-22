@@ -1,9 +1,10 @@
-<p>
-<img align="right" width="200px" alt="Ckau-to-ES-DE" src="https://github.com/user-attachments/assets/3a205c81-ba9a-4aea-9593-770e6df3f435" />
-
 # ckau-to-es-de
-This set of scripts is designed to automatically convert collections from Ckau (made for Batocera and Retrobat) for use in ES-DE.
+<p>
+<img align="right" width="180px" src="https://github.com/user-attachments/assets/3a205c81-ba9a-4aea-9593-770e6df3f435" />
+This set of scripts is designed to automatically convert collections from Ckau (made for Batocera and Retrobat)<br/> for use in ES-DE.
 </p>
+<br/>
+<br/>
 
 # 🎮 Адаптация коллекций оформлений под ES-DE
 
@@ -178,3 +179,6 @@ _skipped_files_<system>.txt
   - Publish derivative works under the same license  
 - **Prohibited**
   - Commercial distribution
+
+### Copyrights / Sources
+All brands, logos, and photos are property of their respective owners.  
